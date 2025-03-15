@@ -26,7 +26,7 @@ function initGame(){
     gameInfo.innerText = `Current Player -${currentPlayer}`;
 }
 initGame();
-
+// jai shree ram
 function swapTurn() {
     if(currentPlayer === "X"){
         currentPlayer = "0";
